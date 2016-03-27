@@ -1,5 +1,5 @@
 var _ = require('./lodash'),
-    old = require('lodash');
+    old = require('lodash-old');
 
 var listing = require('./lib/listing'),
     mapping = require('./lib/mapping'),
